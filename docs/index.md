@@ -17,7 +17,9 @@
 
 If they do it for $100, can you do it for a cent?
 
-Say someone wants an AI to watch and help people work. Do you:
+For example, say  wants an AI to watch and help their people do their work. 
+
+Do you:
 
 - Spin up a massive cloud LLM, wrapped in layers of JavaScript?
 - Pay endlessly for licenses, CPU, and storage?

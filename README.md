@@ -17,7 +17,7 @@
 
 If they do it for $100, can you do it for a cent?
 
-For example, say  wants an AI to watch and help their people do their work. 
+For example, say someone  wants an AI to watch and help their people do their work. 
 
 Do you:
 
