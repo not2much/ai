@@ -1,15 +1,15 @@
 [![🏠 home](https://img.shields.io/badge/home-cccccc?style=flat)](/README.md)
-[![🧭 guide](https://img.shields.io/badge/guide-88c0d0?style=flat)](/docs/rules.md)
-[![📂 egs](https://img.shields.io/badge/egs-81a1c1?style=flat)](/docs/egs.md)
+[![🧭 guide](https://img.shields.io/badge/guide-88c0d0?style=flat)](rules.md)
+[![📂 egs](https://img.shields.io/badge/egs-81a1c1?style=flat)](egs.md)
 [![💡 why](https://img.shields.io/badge/why-eee85c?style=flat)](why.md)
-[![📐 math](https://img.shields.io/badge/maths-8faadc?style=flat)](/docs/maths.md)
-[![🐍 python](https://img.shields.io/badge/python-a4c639?style=flat)](/docs/python.md)
-[![🛠 se](https://img.shields.io/badge/se-f36f6f?style=flat)](/docs/se.md)
-[![🧠 ai](https://img.shields.io/badge/ai-c17dc6?style=flat)](/docs/ai.md)
-[![📦 apps](https://img.shields.io/badge/apps-faa857?style=flat)](/docs/apps.md)
+[![📐 math](https://img.shields.io/badge/maths-8faadc?style=flat)](maths.md)
+[![🐍 python](https://img.shields.io/badge/python-a4c639?style=flat)](python.md)
+[![🛠 se](https://img.shields.io/badge/se-f36f6f?style=flat)](se.md)
+[![🧠 ai](https://img.shields.io/badge/ai-c17dc6?style=flat)](ai.md)
+[![📦 apps](https://img.shields.io/badge/apps-faa857?style=flat)](apps.md)
 
 
-# Not 2 Much SE and AI 
+# Not 2 Much SE for AI 
 
 <img align=right src="img/not2much.png" width=350>
 
@@ -40,12 +40,12 @@ Interested? Then read on!
   </tr>
   <tr>
     <td valign="top">
-      This is a toolkit for AI and SE newcomers who know a bit of Python. It offers a faster, cheaper, simpler way to get started — no AI theory required.
+      This is a tiny toolkit for  SE for AI newcomers who know a bit of Python. It offers a faster, cheaper, simpler way to get started — no AI theory required.
       <br><br>
       Experienced folks might want to skip over the tutorial material in
-         <a href="/docs/maths.md">maths</a>,
-         <a href="/docs/python.md">python</a>, and
-         <a href="/docs/se.md">se</a>.      
+         <a href="maths.md">maths</a>,
+         <a href="python.md">python</a>, and
+         <a href="se.md">se</a>.      
     </td>
     <td valign="top">
       No, this doesn’t do generation (yet).
@@ -55,7 +55,7 @@ Interested? Then read on!
     <td valign="top">
       Want the vibe behind this project?
       <br><br>
-      See the    <a href="/docs/rules.md">quick guide</a>.
+      See the    <a href="rules.md">quick guide</a>.
     </td>
   </tr>
 </table>
