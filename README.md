@@ -9,7 +9,7 @@
 [![📦 apps](https://img.shields.io/badge/apps-faa857?style=flat)](/docs/apps.md)
 
 
-# Not 2 Much SE and AI 
+# Not 2 Much SE for AI 
 
 <img align=right src="/docs/img/not2much.png" width=350>
 
@@ -40,7 +40,7 @@ Interested? Then read on!
   </tr>
   <tr>
     <td valign="top">
-      This is a toolkit for AI and SE newcomers who know a bit of Python. It offers a faster, cheaper, simpler way to get started — no AI theory required.
+      This is a tiny toolkit for  SE for AI newcomers who know a bit of Python. It offers a faster, cheaper, simpler way to get started — no AI theory required.
       <br><br>
       Experienced folks might want to skip over the tutorial material in
          <a href="/docs/maths.md">maths</a>,
