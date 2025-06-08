@@ -9,7 +9,7 @@
 [![📦 apps](https://img.shields.io/badge/apps-faa857?style=flat)](apps.md)
 
 
-# Not 2 Much SE for AI 
+# Not 2 Much SE 4 AI 
 
 <img align=right src="img/not2much.png" width=350>
 
