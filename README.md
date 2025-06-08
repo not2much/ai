@@ -30,7 +30,7 @@ This is an SE and AI training toolkit for newbies, guiding them to a cheaper sim
 
 No, this does not handle generation (yet). But it does do classification, regressions, clustering, optimziation, explantion, planning, etc, etc, etc. 
 
-Experienced AI people might enjoy [motivation](/docs/motives.md), then jump straight to [ai](/docs/a.md) and  [apps](/docs/apps.md). 
+Experienced AI people might enjoy the [motivation](/docs/motives.md), then jump straight to [ai](/docs/a.md) and  [apps](/docs/apps.md). 
 
  
 
