@@ -1,17 +1,19 @@
 [![🏠 home](https://img.shields.io/badge/home-cccccc?style=flat)](/README.md)
-[![🧭 guide](https://img.shields.io/badge/guide-88c0d0?style=flat)](rules.md)
+[![🗂️ src](https://img.shields.io/badge/src-aaaaaa?style=flat)](/src/)
+[![© 2025](https://img.shields.io/badge/©︎_2025-cccccc?style=flat)](#)
+[![🔱 fork](https://img.shields.io/badge/fork-grey?style=flat&logo=github&logoColor=white)](https://github.com/not2much/se4ai/fork)<br>
+[![🧭 rules](https://img.shields.io/badge/guide-88c0d0?style=flat)](rules.md)
 [![📂 egs](https://img.shields.io/badge/egs-81a1c1?style=flat)](egs.md)
-[![💡 why](https://img.shields.io/badge/why-eee85c?style=flat)](why.md)
+[![💡 why](https://img.shields.io/badge/motivation-eee85c?style=flat)](motives.md)
 [![📐 math](https://img.shields.io/badge/maths-8faadc?style=flat)](maths.md)
 [![🐍 python](https://img.shields.io/badge/python-a4c639?style=flat)](python.md)
 [![🛠 se](https://img.shields.io/badge/se-f36f6f?style=flat)](se.md)
-[![🧠 ai](https://img.shields.io/badge/ai-c17dc6?style=flat)](ai.md)
+[![🧠 ai](https://img.shields.io/badge/ai-c17dc6?style=flat)](a.md)
 [![📦 apps](https://img.shields.io/badge/apps-faa857?style=flat)](apps.md)
-
 
 # Not 2 Much SE 4 AI 
 
-<img align=right src="img/not2much.png" width=350>
+<img align=right src="img/not2much.png" width=300>
 
 If they do it for $100, can you do it for a cent?
 
@@ -24,7 +26,7 @@ Say someone wants an AI to watch and help people work. Do you:
 
 Or, do you:
 
-- Build it with not2much SE and AI, using jsut a few hundred lines of code;
+- Build it with not2much SE for AI, using jsut a few hundred lines of code;
 - Using code you can understand with costs you control;
 - And get results that just work, with no  overhead?
 
@@ -40,7 +42,7 @@ Interested? Then read on!
   </tr>
   <tr>
     <td valign="top">
-      This is a tiny toolkit for  SE for AI newcomers who know a bit of Python. It offers a faster, cheaper, simpler way to get started — no AI theory required.
+      This is a tiny toolkit (about SE 4 AI) for newcomers who know a bit of Python. It offers a faster, cheaper, simpler way to get started — no AI theory required.
       <br><br>
       Experienced folks might want to skip over the tutorial material in
          <a href="maths.md">maths</a>,
