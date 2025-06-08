@@ -21,16 +21,18 @@ Or, do you:
 - Using code you can understand with costs you control;
 - And results that just work?
 
-Interested? Then read on.
+Interested? Then read on!
 
 
-## Who should read this.
+## Who should read this
 
-This is an SE and AI training toolkit for newbies, guiding them to a heaper simpler fast way to approach AI. No, this does not handle generation (yet). But it does do classification, regressions, clustering, optimziation, explantion, planning, etc, etc, etc. 
+This is an SE and AI training toolkit for newbies, guiding them to a cheaper simpler fast way to approach Se and AI. 
 
-Experienced AI people might enjoy [motivation](/docs/motives.md), then jump stragitht to [ai](/docs/a.md) and  [apps](/docs/apps.md). 
+No, this does not handle generation (yet). But it does do classification, regressions, clustering, optimziation, explantion, planning, etc, etc, etc. 
 
-Everyone else might learn something it they read it all. ).
+Experienced AI people might enjoy [motivation](/docs/motives.md), then jump straight to [ai](/docs/a.md) and  [apps](/docs/apps.md). 
+
+ 
 
 
 
