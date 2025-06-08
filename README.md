@@ -26,7 +26,7 @@ Interested? Then read on!
 
 ## Who should read this
 
-This is an SE and AI training toolkit for newbies, guiding them to a cheaper simpler fast way to approach Se and AI. 
+This is an SE and AI training toolkit for newbies, guiding them to a cheaper simpler fast way to approach SE and AI. 
 
 No, this does not handle generation (yet). But it does do classification, regressions, clustering, optimziation, explantion, planning, etc, etc, etc. 
 
