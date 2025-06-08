@@ -2,7 +2,7 @@
 [![🗂️ src](https://img.shields.io/badge/src-aaaaaa?style=flat)](/src/)
 [![© 2025](https://img.shields.io/badge/©︎_2025-cccccc?style=flat)](#)
 [![🔱 fork](https://img.shields.io/badge/fork-grey?style=flat&logo=github&logoColor=white)](https://github.com/not2much/se4ai/fork)<br>
-[![🧭 guide](https://img.shields.io/badge/guide-88c0d0?style=flat)](/docs/rules.md)
+[![🧭 rules](https://img.shields.io/badge/guide-88c0d0?style=flat)](/docs/rules.md)
 [![📂 egs](https://img.shields.io/badge/egs-81a1c1?style=flat)](/docs/egs.md)
 [![💡 why](https://img.shields.io/badge/motivation-eee85c?style=flat)](/docs/motives.md)
 [![📐 math](https://img.shields.io/badge/maths-8faadc?style=flat)](/docs/maths.md)
@@ -42,7 +42,7 @@ Interested? Then read on!
   </tr>
   <tr>
     <td valign="top">
-      This is a tiny toolkit about  SE for AI newcomers who know a bit of Python. It offers a faster, cheaper, simpler way to get started — no AI theory required.
+      This is a tiny toolkit (about SE 4 AI) for newcomers who know a bit of Python. It offers a faster, cheaper, simpler way to get started — no AI theory required.
       <br><br>
       Experienced folks might want to skip over the tutorial material in
          <a href="/docs/maths.md">maths</a>,
