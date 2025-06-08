@@ -1,4 +1,6 @@
 [home](/README.md) | [motivation](/docs/motives.md) | [maths](/docs/maths.md) | [python](/docs/python.md) | [se](/docs/se.md) | [ai](/docs/a.md) |  [apps](/docs/apps.md)  
+     
+<img align=right src="/docs/img/not2much.png" width=400>
 
 # Not 2 Much SE and AI 
 
