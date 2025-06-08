@@ -13,7 +13,7 @@
 
 # Not 2 Much SE 4 AI 
 
-<img align=right src="/docs/img/not2much.png" width=350>
+<img align=right src="/docs/img/not2much.png" width=300>
 
 If they do it for $100, can you do it for a cent?
 
