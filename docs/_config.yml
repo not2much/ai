@@ -1,0 +1,9 @@
+title: "Not2Much"
+description: "Minimal SE+AI done well"
+theme: minima
+show_excerpts: true
+header_pages:
+  - index.md
+  - docs/motives.md
+  - docs/a.md
+  - docs/apps.md
