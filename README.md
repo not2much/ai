@@ -1,8 +1,10 @@
 [home](/README.md) | [motivation](/docs/motives.md) | [maths](/docs/maths.md) | [python](/docs/python.md) | [se](/docs/se.md) | [ai](/docs/a.md) |  [apps](/docs/apps.md)  
-     
-<img align=right src="/docs/img/not2much.png" width=400>
+ 
+
 
 # Not 2 Much SE and AI 
+
+<img align=right src="/docs/img/not2much.png" width=400>
 
 If they do it for $100, can you do it for a cent?
 
@@ -13,13 +15,13 @@ Say someone wants an AI to watch and help people work. Do you:
 - Lock yourself into a black-box model no one can really edit?
 - Retrain everything just to tweak a tiny rule?
 
-Or, do you
+Or, do you:
 
 - Build it with not2much SE and AI, using jsut a few hundred lines of code;
 - Using code you can understand with costs you control;
 - And results that just work?
 
-Interested? Thenre ad on.
+Interested? Then read on.
 
 
 ## Who should read this.
