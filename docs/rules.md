@@ -28,7 +28,6 @@ That hands-on experience teaches them how to:
 It’s not about **getting it right the first time**.  
 It’s about **learning fast**, **testing constantly**, and adjusting to what reality throws at you.
 
----
 
 The same applies to coding.
 
