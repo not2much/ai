@@ -23,6 +23,9 @@
 * Notes: Literals are fixed values in code, such as `41` (integer literal),
   `3.14` (float literal), or `"alan"` (string literal).
 
+## F-string
+* XXX
+
 ## Operators (arithmetic, assignment, comparison, logical):
 * Example: `d = n - num.mu` (arithmetic subtraction and assignment)
 * Notes: Symbols that perform operations on values and variables. Examples: `+`, `-`,
