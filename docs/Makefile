@@ -1,13 +1,13 @@
 -include ../Makefile
 
-main: *.md
+view: *.md
 	bundle exec jekyll serve
 
 docs: header.txt *.md
 
 installMac:
 	brew install gawk
-	bundle install
+	sudo bundle install
 
 header.txt:
 	cat ../README.md | gawk '/^$$/ {exit} 1' > $@
