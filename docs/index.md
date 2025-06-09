@@ -13,7 +13,7 @@
 [![📦 apps](https://img.shields.io/badge/apps-27ae60?style=flat)](apps) &nbsp;&nbsp;
 
 
-## How hard is AI? Can we make it simpler?
+# How hard is AI? Can we make it simpler?
 
 <img align=right src="img/not2much.png" width=300>
 

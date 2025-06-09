@@ -1,12 +1,4 @@
 title: "Not2Much SE 4 AI"
 description: "Minimal SE+AI done well"
-theme: minima
 logo: /img/logo.png
-show_excerpts: false
-minima:
-  skin: dark
-header_pages:
-  - index.md
-  - docs/motives.md
-  - docs/a.md
-  - docs/apps.md
+theme: minima
