@@ -1,17 +1,19 @@
 -include ../Makefile
 
-view: *.md
+view: *.md ## show site locally
 	bundle exec jekyll serve
 
-docs: header.txt *.md
+docs:  ## force update on all md files
+	$(MAKE) -B header.txt *.md
 
-
-installMac:
+installMac:  ## install tools (for os/x)
 	brew install gawk
 	sudo bundle install
 
-header.txt:
+header.txt:  ## create header.txt and index.md from ../README
+	echo "$@ ... "
 	cat ../README.md | gawk '/^$$/ {exit} 1' > $@
+	echo "index.md ... "
 	cp ../README.md index.md
 
 %.md: ## add standard header to *md files

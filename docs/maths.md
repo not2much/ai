@@ -1,15 +1,15 @@
-[![🏠 home](https://img.shields.io/badge/home-cccccc?style=flat)](/README)
-[![🗂️ src](https://img.shields.io/badge/src-aaaaaa?style=flat)](/src/)
-[![© 2025](https://img.shields.io/badge/©︎_2025-cccccc?style=flat)](#)
-[![🔱 fork](https://img.shields.io/badge/fork-grey?style=flat&logo=github&logoColor=white)](https://github.com/not2much/se4ai/fork)<br>
-[![🧭 rules](https://img.shields.io/badge/guide-88c0d0?style=flat)](rules)
-[![📂 egs](https://img.shields.io/badge/egs-81a1c1?style=flat)](egs)
-[![💡 why](https://img.shields.io/badge/motivation-eee85c?style=flat)](motives)
-[![📐 math](https://img.shields.io/badge/maths-8faadc?style=flat)](maths)
-[![🐍 python](https://img.shields.io/badge/python-a4c639?style=flat)](python)
-[![🛠 se](https://img.shields.io/badge/se-f36f6f?style=flat)](se)
-[![🧠 ai](https://img.shields.io/badge/ai-c17dc6?style=flat)](a)
-[![📦 apps](https://img.shields.io/badge/apps-faa857?style=flat)](apps)
+[![🧭 rules](https://img.shields.io/badge/guide-ff6f6f?style=flat)](rules)
+[![📂 egs](https://img.shields.io/badge/egs-ff9999?style=flat)](egs)
+[![💡 why](https://img.shields.io/badge/motivation-ffcccc?style=flat)](motives) &nbsp;&nbsp;
+[![🐚 sh](https://img.shields.io/badge/sh-f1c40f?style=flat)](sh)
+[![🐍 python](https://img.shields.io/badge/python-f39c12?style=flat)](python)
+[![🛠 se](https://img.shields.io/badge/se-e67e22?style=flat)](se) &nbsp;&nbsp;
+[![📐 math](https://img.shields.io/badge/maths-7fdb7f?style=flat)](maths)
+[![🧠 ai](https://img.shields.io/badge/ai-2ecc71?style=flat)](a)
+[![📦 apps](https://img.shields.io/badge/apps-27ae60?style=flat)](apps) &nbsp;&nbsp;
+[![🗂️ src](https://img.shields.io/badge/src-bbbbbb?style=flat)](/src/)
+[![🔱 fork](https://img.shields.io/badge/fork-888888?style=flat&logo=github&logoColor=white)](https://github.com/not2much/se4ai/fork) 
+<small>[© 2025](#)</small>
 
 # Not 2 Much Maths
 

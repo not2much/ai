@@ -1,40 +1,44 @@
-[![🏠 home](https://img.shields.io/badge/home-cccccc?style=flat)](/README.md)
-[![🗂️ src](https://img.shields.io/badge/src-aaaaaa?style=flat)](/src/)
-[![© 2025](https://img.shields.io/badge/©︎_2025-cccccc?style=flat)](#)
-[![🔱 fork](https://img.shields.io/badge/fork-grey?style=flat&logo=github&logoColor=white)](https://github.com/not2much/se4ai/fork)<br>
-[![🧭 rules](https://img.shields.io/badge/guide-88c0d0?style=flat)](/docs/rules.md)
-[![📂 egs](https://img.shields.io/badge/egs-81a1c1?style=flat)](/docs/egs.md)
-[![💡 why](https://img.shields.io/badge/motivation-eee85c?style=flat)](/docs/motives.md)
-[![📐 math](https://img.shields.io/badge/maths-8faadc?style=flat)](/docs/maths.md)
-[![🐍 python](https://img.shields.io/badge/python-a4c639?style=flat)](/docs/python.md)
-[![🛠 se](https://img.shields.io/badge/se-f36f6f?style=flat)](/docs/se.md)
-[![🧠 ai](https://img.shields.io/badge/ai-c17dc6?style=flat)](/docs/a.md)
-[![📦 apps](https://img.shields.io/badge/apps-faa857?style=flat)](/docs/apps.md)
+[![🧭 rules](https://img.shields.io/badge/guide-ff6f6f?style=flat)](/docs/rules.md)
+[![📂 egs](https://img.shields.io/badge/egs-ff9999?style=flat)](/docs/egs.md)
+[![💡 why](https://img.shields.io/badge/motivation-ffcccc?style=flat)](/docs/motives.md) &nbsp;&nbsp;
+[![🐚 sh](https://img.shields.io/badge/sh-f1c40f?style=flat)](/docs/sh.md)
+[![🐍 python](https://img.shields.io/badge/python-f39c12?style=flat)](/docs/python.md)
+[![🛠 se](https://img.shields.io/badge/se-e67e22?style=flat)](/docs/se.md) &nbsp;&nbsp;
+[![📐 math](https://img.shields.io/badge/maths-7fdb7f?style=flat)](/docs/maths.md)
+[![🧠 ai](https://img.shields.io/badge/ai-2ecc71?style=flat)](/docs/a.md)
+[![📦 apps](https://img.shields.io/badge/apps-27ae60?style=flat)](/docs/apps.md) &nbsp;&nbsp;
+[![🗂️ src](https://img.shields.io/badge/src-bbbbbb?style=flat)](/src/)
+[![🔱 fork](https://img.shields.io/badge/fork-888888?style=flat&logo=github&logoColor=white)](https://github.com/not2much/se4ai/fork) 
+<small>[© 2025](#)</small>
 
 
-# If they do it for $100, can you do it for a cent?
 
+## How hard is AI? Can we make it simpler?
 
 <img align=right src="/docs/img/not2much.png" width=300>
 
+**Not2much** is a tiny AI toolkit — just a few hundred lines of Python — that delivers explainable AI, fast multi-objective optimization, active learning, clustering, decision trees, Bayes classifiers, and more.
 
-How good is your software? Can you make it faster, simpler, cheaper than anyone else?
+No AI background? No problem. If you know a little Python, you can learn real AI here.
 
-Say someone wants an AI to help people work. Do you:
+Already an expert? Here's your challenge:
 
-- Fire up a bloated cloud LLM wrapped in layers of JavaScript?
-- Pay endlessly for compute, storage, and licensing?
+> If they build it for $100, can you do it for a cent?
+
+When someone needs AI to help their team, do you:
+
+- Fire up a giant cloud LLM wrapped in bloated JavaScript?  
+- Burn money on compute, storage, and licensing?  
 - Retrain a black box just to tweak one rule?
 
 Or do you:
 
-- Use just a few hundred lines of code,
-- That you understand, control, and adapt instantly,
--  With results that just work — no overhead, no lock-in?
+- Write a few hundred lines of readable, adaptable code,  
+- That runs fast, costs little, and just works?
 
-That’s not2much SE for AI, right?
+**That’s not2much SE for AI.**
 
-Curious? Read on.
+Ready? Let’s go.
 
 
 <br clear=all>
@@ -44,17 +48,17 @@ Curious? Read on.
   <tr>
     <th width="33%" valign="top">🌟 <br> <strong>What’s so special?</strong></th>
     <th width="33%" valign="top">📦 <br> <strong>Scope</strong></th>
-    <th width="33%" valign="top">🧑‍💻 <br> <strong>Who should read this?</strong></th>
+    <th width="33%" valign="top">🧑‍💻 <br> <strong>How to  read this?</strong></th>
   </tr>
   <tr>
     <td valign="top">
+            Not2much is tiny AI tool. It takes a "less, but better" approach to AI.
+            <br><br>
       Want the vibe behind this project?
       <br><br>
       See the    <a href="/docs/rules.md">quick guide</a>.
     </td>
     <td valign="top">
-      This is a tiny toolkit (about SE 4 AI) for newcomers who know a bit of Python. It offers a faster, cheaper, simpler way to get started — no AI theory required.
-<br><br>
     No, this code doesn’t do generation (yet).
       <br><br>
       But it <strong>does</strong> handle classification, regression, clustering, optimization, explanation, planning, text mining, etc, etc — all in a few hundred lines.
