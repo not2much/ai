@@ -16,5 +16,5 @@ header.txt:
 	echo "$@ ... "
 	cat header.txt > .tmp
 	gawk '/^$$/ {body=1} body' $@ >> .tmp
-	sed 's|/docs/||g' .tmp > $@
+	sed 's|/docs/||g' .tmp | sed 's|\.md)|)|g' > $@
 	rm .tmp
