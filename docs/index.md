@@ -11,32 +11,40 @@
 [![🧠 ai](https://img.shields.io/badge/ai-c17dc6?style=flat)](a)
 [![📦 apps](https://img.shields.io/badge/apps-faa857?style=flat)](apps)
 
+
 # If they do it for $100, can you do it for a cent?
+
 
 <img align=right src="img/not2much.png" width=300>
 
 
-Calling all engineers. How good are your solutions? Do you know how to make them faster, simpler, cheaper than everyone else?
+How good are is your software? Do you know how to make them faster, simpler, cheaper than everyone else?
 
 For example, say someone  wants an AI to watch and help their people do their work. 
 
 Do you:
+
 
 - Spin up a massive cloud LLM, wrapped in layers of JavaScript?
 - Pay endlessly for licenses, CPU, and storage?
 - Lock yourself into a black-box model no one can really edit?
 - Retrain everything just to tweak a tiny rule?
 
+
 Or, do you:
+
 
 - Build it with not2much SE for AI, using just a few hundred lines of code;
 - Using code you can understand with costs you control;
 - Which can be modified 1000s of times faster than (e.g.) a deep learner;
 - And get results that just work, with no  overhead?
 
+
 Interested? Then read on....
 
+
 <br clear=all>
+
 
 <table width="100%">
   <tr>
@@ -76,4 +84,5 @@ homeworks can be found  in the sections
     </td>
   </tr>
 </table>
+
 

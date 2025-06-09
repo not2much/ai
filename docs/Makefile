@@ -5,12 +5,14 @@ view: *.md
 
 docs: header.txt *.md
 
+
 installMac:
 	brew install gawk
 	sudo bundle install
 
 header.txt:
 	cat ../README.md | gawk '/^$$/ {exit} 1' > $@
+	cp ../README.md index.md
 
 %.md: ## add standard header to *md files
 	echo "$@ ... "

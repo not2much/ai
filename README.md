@@ -18,11 +18,9 @@
 <img align=right src="/docs/img/not2much.png" width=300>
 
 
-Calling all engineers. How good are your solutions? Do you know how to make them faster, simpler, cheaper than everyone else?
-
+How good are is your software? Do you know how to make them faster, simpler, cheaper than everyone else?
 
 For example, say someone  wants an AI to watch and help their people do their work. 
-
 
 Do you:
 
