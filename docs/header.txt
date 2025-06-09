@@ -1,3 +1,7 @@
+[![🗂️ home](https://img.shields.io/badge/home-eee?style=flat)](http://not2much.github.io/se4ai)
+[![🗂️ src](https://img.shields.io/badge/src-bbbbbb?style=flat)](/src/)
+[![🔱 fork](https://img.shields.io/badge/fork-888888?style=flat&logo=github&logoColor=white)](https://github.com/not2much/se4ai/fork)
+<small>&nbsp;[©2025](#)</small><br>
 [![🧭 rules](https://img.shields.io/badge/guide-ff6f6f?style=flat)](/docs/rules.md)
 [![📂 egs](https://img.shields.io/badge/egs-ff9999?style=flat)](/docs/egs.md)
 [![💡 why](https://img.shields.io/badge/motivation-ffcccc?style=flat)](/docs/motives.md) &nbsp;&nbsp;
@@ -7,6 +11,3 @@
 [![📐 math](https://img.shields.io/badge/maths-7fdb7f?style=flat)](/docs/maths.md)
 [![🧠 ai](https://img.shields.io/badge/ai-2ecc71?style=flat)](/docs/a.md)
 [![📦 apps](https://img.shields.io/badge/apps-27ae60?style=flat)](/docs/apps.md) &nbsp;&nbsp;
-[![🗂️ src](https://img.shields.io/badge/src-bbbbbb?style=flat)](/src/)
-[![🔱 fork](https://img.shields.io/badge/fork-888888?style=flat&logo=github&logoColor=white)](https://github.com/not2much/se4ai/fork) 
-<small>[© 2025](#)</small>
