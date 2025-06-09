@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 -B
 """
 n2m.py: tiny AI. multi objective, explainable, AI
 (c) 2025 Tim Menzies, <timm@ieee.org>. MIT license
@@ -30,8 +30,7 @@ Stats:
 import traceback,random,math,sys,re
 sys.dont_write_bytecode = True 
 
-the=dict(**{m[1]: m[2]
-         for m in re.finditer(r"-\w+\s+(\w+)[^\(]*\(\s*([^)]+)\s*\)", __doc__)})
+the = {k:v for k,v in re.findall(r"-\w+\s+(\w+)[^\(]*\(\s*([^)]+)\)", __doc__)}
 
 ### Sample data ----------------------------------------------------------------
 
@@ -835,6 +834,7 @@ def eg_h(_):
 
 # Geneate options struct from top-of-file string.
 the = o(**{k:atom(v) for k,v in the.items()})
+
 # Maybe run command-line options.
 if __name__ == "__main__":
   cli(the.__dict__)
