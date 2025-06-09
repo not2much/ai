@@ -1,19 +1,20 @@
 -include ../Makefile
 
-ONE=cat $< | gawk 'BEGIN {FS="\n";RS=""} {print $$0 ; exit}' 
-TWOPLUS=cat $@ | gawk 'BEGIN {FS="\n";RS=""} NR==1 { print("\n\n"); next} {print $$0 "\n\n"}'
-
 main: *.md
 	bundle exec jekyll serve
 
-docs: *.md
+docs: header.txt *.md
 
 installMac:
 	brew install gawk
 	bundle install
 
-%.md: ../README.md Makefile ## add standard header to *md files
+header.txt:
+	cat ../README.md | gawk '/^$$/ {exit} 1' > $@
+
+%.md: ## add standard header to *md files
 	echo "$@ ... "
-	echo @($(ONE);  $(TWOPLUS)) > .tmp; mv .tmp $@
-	#@($(ONE);  $(TWOPLUS)) > .tmp; mv .tmp $@
-	#sed -i 's|/docs/||g' $@
+	cat header.txt > .tmp
+	gawk '/^$$/ {body=1} body' $@ >> .tmp
+	sed 's|/docs/||g' .tmp > $@
+	rm .tmp
