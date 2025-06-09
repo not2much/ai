@@ -1,6 +1,6 @@
 SHELL     := bash
 MAKEFLAGS += --warn-undefined-variables
-.SILENT:
+#.SILENT:
 
 LOUD = \033[1;34m#
 HIGH = \033[1;33m#
@@ -22,5 +22,3 @@ push: ## commit to main
 
 sh: ## run my shell
 	Top=$(Top) bash --init-file $(Top)/etc/init.sh -i
-
-
