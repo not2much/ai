@@ -2,7 +2,7 @@ BEGIN {
   #31=red,32=green,33=brown,34=blue,35=purple,36=cyan.37=white
   COLOR= "\033[36m" 
   RESET= "\033[0m"     
-  FS   = ":.*?## "        
+  FS   = ":.*## "        
   print "\nmake [WHAT]" 
 }
 /^[^ \t].*##/ {          
