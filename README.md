@@ -18,29 +18,23 @@
 <img align=right src="/docs/img/not2much.png" width=300>
 
 
-How good are is your software? Do you know how to make it faster, simpler, cheaper than everyone else?
+How good is your software? Can you make it faster, simpler, cheaper than anyone else?
 
-For example, say someone  wants an AI to watch and help their people do their work. 
+Say someone wants an AI to help people work. Do you:
 
-Do you:
+- Fire up a bloated cloud LLM wrapped in layers of JavaScript?
+- Pay endlessly for compute, storage, and licensing?
+- Retrain a black box just to tweak one rule?
 
+Or do you:
 
-- Spin up a massive cloud LLM, wrapped in layers of JavaScript?
-- Pay endlessly for licenses, CPU, and storage?
-- Lock yourself into a black-box model no one can really edit?
-- Retrain everything just to tweak a tiny rule?
+- Use just a few hundred lines of code,
+- That you understand, control, and adapt instantly,
+-  With results that just work — no overhead, no lock-in?
 
+That’s not2much SE for AI, right?
 
-Or, do you:
-
-
-- Build it with not2much SE for AI, using just a few hundred lines of code;
-- Using code you can understand with costs you control;
-- Which can be modified 1000s of times faster than (e.g.) a deep learner;
-- And get results that just work, with no  overhead?
-
-
-Interested? Then read on....
+Curious? Read on.
 
 
 <br clear=all>
