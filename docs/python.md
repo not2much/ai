@@ -14,6 +14,10 @@
 
 # Python 3 Concepts:
 
+magic methods
+
+type hints
+
 ## Variables and Assignment:
 * Example: `s,n = 0,0`
 * Notes: Variables are names given to memory locations where data is stored.
@@ -64,7 +68,7 @@
 * Notes: Control structures that allow code to be repeatedly executed.
   `for` loops iterate over sequences; `while` loops repeat as long as a condition is true.
 
-## Iteration:
+## Abstraction:Abstraction:  Iteration:
 * Example: `for i,row in enumerate(csv(lines(EXAMPLE))):`
 * Notes: The process of repeating a sequence of instructions over each item in a collection.
 
@@ -111,6 +115,8 @@
   with a default if the key is missing; `items()` returns key-value pairs;
   `values()` returns values; `update()` merges dictionaries or adds/updates items.
 
+## dictionary methos
+
 ## Classes and Objects:
 * Example: `class o:` (definition)
 * Notes: Classes are blueprints for creating objects. Objects are instances of classes,
@@ -127,7 +133,7 @@
 * Notes: Functions that are always available for use in Python without explicit
   import. Examples: `len()`, `sum()`, `min()`, `max()`, `sorted()`.
 
-## Error Handling (`try-except`):
+## Abstraction: Error Handling (`try-except`):
 * Example: `try: return what(x) except Exception: pass`
 * Notes: A mechanism to gracefully manage errors (exceptions) that occur
   during program execution. Code that might cause an error is placed in the

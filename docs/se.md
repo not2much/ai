@@ -188,4 +188,13 @@
   multiple items, systems, or methods to draw conclusions about their relative
   strengths and weaknesses.
 
+## Programming Paradigm:
+* Notes: functional, object-oriebted
 
+## Coding Styles
+* Uncle Bob's rule:  short functions
+
+## Dry not Wet
+
+## Little Languages:
+* Notes: aka domain specific languages. Make, regular expressions

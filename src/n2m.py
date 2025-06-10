@@ -835,9 +835,12 @@ def eg_h(_):
 # Geneate options struct from top-of-file string.
 the = o(**{k:atom(v) for k,v in the.items()})
 
-# Maybe run command-line options.
-if __name__ == "__main__":
+def main():
   cli(the.__dict__)
   for i,s in enumerate(sys.argv):
     if fn := globals().get("eg" + s.replace("-", "_")):
       run(fn, None if i == len(sys.argv) - 1 else atom(sys.argv[i+1]))
+
+# Maybe run command-line options.
+if __name__ == "__main__": main()
+ 

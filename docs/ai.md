@@ -39,6 +39,7 @@
 
 ## Initialization strategies for optimization:
 * Example: `kpp(data)`
+* Notes: Diversity sampling
 * Notes: Techniques used to set the starting points or parameters for an optimization
   algorithm. A good initialization can significantly impact the speed and quality
   of convergence for iterative optimization processes.
@@ -55,11 +56,14 @@
   Common methods include imputation (filling in missing values) or simply ignoring
   records with missing values, as seen here.
 
+## Order effect
+
 ## Active learning strategies (exploration vs. exploitation):
 * Example: `the.Acq` option (`xploit` or `xplore` or `adapt`)
 * Notes: A machine learning approach where the algorithm can interactively query
   a user or other information source to obtain the desired outputs at new data points.
   It's useful when labeled data is scarce or expensive to obtain.
+* Notes: pool-based, stream-based, membership query 
 
 ## Uncertainty sampling:
 * Example: Implicit in `_acquire` logic via `q`
@@ -131,6 +135,9 @@
 * Notes: The process of systematically examining potential solutions within the
   set of all possible solutions (the search space) to find an optimal or
   near-optimal solution.
+
+## Aggretation Functions
+
 
 ## Multi-objective optimization:
 * Example: The program aims to optimize 'Throughput+' and 'Latency-'.
