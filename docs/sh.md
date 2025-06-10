@@ -1,0 +1,9 @@
+.
+
+# Shell
+
+diretories
+
+paths
+
+Makefiles
