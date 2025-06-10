@@ -1,5 +1,3 @@
-<a name=top><p>&nbsp;
-           
 [![🗂️ home](https://img.shields.io/badge/home-eee?style=flat)](http://not2much.github.io/se4ai)
 [![🗂️ src](https://img.shields.io/badge/src-bbbbbb?style=flat)](/src/)
 [![🔱 fork](https://img.shields.io/badge/fork-888888?style=flat&logo=github&logoColor=white)](https://github.com/not2much/se4ai/fork)
