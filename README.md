@@ -1,4 +1,4 @@
-&nbsp; <P>&nbsp;<a name=top><p>&nbsp;
+<a name=top><p>&nbsp;
            
 [![🗂️ home](https://img.shields.io/badge/home-eee?style=flat)](http://not2much.github.io/se4ai)
 [![🗂️ src](https://img.shields.io/badge/src-bbbbbb?style=flat)](/src/)
